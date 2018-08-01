@@ -1,5 +1,7 @@
 <<<<<<< HEAD
 hello, how are you
+
+adding some context
 =======
 hello
 >>>>>>> 6f7cd83f76bdc1b2a357dd9ae7febcaff0072bf6
