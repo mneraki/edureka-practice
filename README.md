@@ -1,2 +1,0 @@
-# edureka-practice
-hello
